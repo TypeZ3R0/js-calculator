@@ -175,11 +175,12 @@ main {
     width: 80%;
     font-size: 26px;
     font-weight: 500;
+    color: rgb(255, 119, 0);
 }
 
 .some-info-two {
     width: 80%;
     font-size: 26px;
     font-weight: 500;
-    color: rgb(255, 119, 0);
+    color: rgb(32, 32, 32);
 }
